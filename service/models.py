@@ -1,6 +1,5 @@
 """
 Models for Account
-
 All of the models are stored in this module
 """
 import logging
